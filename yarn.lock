@@ -11740,13 +11740,13 @@ text-table@^0.2.0:
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha512-N+8UisAXDGk8PFXP4HAzVR9nbfmVJ3zYLAWiTIoqC5v5isinhr+r5uaO8+7r3BMfuNIufIsA7RdpVgacC2cSpw==
 
-thredds-catalog-crawler@0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/thredds-catalog-crawler/-/thredds-catalog-crawler-0.0.5.tgz#43f0fb74fab771238bebac6c5a5b726da68f1e18"
-  integrity sha512-ycuDWvTWhOAtsA9v+dORxc0G2zTZvJzmKhKOR47dgT6WyqFVzgEq/lIxNHIiqQ5yX6yiOd2I7mS5wncWf1wJvA==
+thredds-catalog-crawler@0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/thredds-catalog-crawler/-/thredds-catalog-crawler-0.0.6.tgz#5c7bf00dfa1846f35e3b5835f81b70639966487f"
+  integrity sha512-xyxSTSTOnx3Fem+k8mgIOJYI6LXJvBK4IvrNDuNEluzvgubdEJ5x/Bk3GGrcXXy8HlD09An4Ha/nCDT2wdXSiA==
   dependencies:
     fast-xml-parser "^3.14.0"
-    xmldom "^0.3.0"
+    xmldom "^0.5.0"
 
 through2-filter@^3.0.0:
   version "3.0.0"
@@ -12904,10 +12904,10 @@ xmlchars@^2.2.0:
   resolved "https://registry.yarnpkg.com/xmlchars/-/xmlchars-2.2.0.tgz#060fe1bcb7f9c76fe2a17db86a9bc3ab894210cb"
   integrity sha512-JZnDKK8B0RCDw84FNdDAIpZK+JuJw+s7Lz8nksI7SIuU3UXJJslUthsi+uWBUYOwPFwW7W7PRLRfUKpxjtjFCw==
 
-xmldom@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/xmldom/-/xmldom-0.3.0.tgz#e625457f4300b5df9c2e1ecb776147ece47f3e5a"
-  integrity sha512-z9s6k3wxE+aZHgXYxSTpGDo7BYOUfJsIRyoZiX6HTjwpwfS2wpQBQKa2fD+ShLyPkqDYo5ud7KitmLZ2Cd6r0g==
+xmldom@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/xmldom/-/xmldom-0.5.0.tgz#193cb96b84aa3486127ea6272c4596354cb4962e"
+  integrity sha512-Foaj5FXVzgn7xFzsKeNIde9g6aFBxTPi37iwsno8QvApmtg7KYrr+OPyRHcJF7dud2a5nGRBXK3n0dL62Gf7PA==
 
 xmlhttprequest-ssl@~1.5.4:
   version "1.5.5"
